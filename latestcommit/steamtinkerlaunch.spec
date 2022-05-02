@@ -1,11 +1,10 @@
-%global packager floydfire
 %global commit   53d0f7d852101e7b0302ef2593378ca66c812772
 %global short    53d0f7d
 %global date     20220503
 
 Name:           steamtinkerlaunch
 Version:        10.0
-Release:        1.%{date}git%{short}%{?dist}.%{packager}
+Release:        1.%{date}git%{short}%{?dist}
 Summary:        Wrapper tool for use with the Steam client for custom launch options
 
 License:        GPLv3
