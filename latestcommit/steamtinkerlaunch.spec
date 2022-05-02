@@ -4,7 +4,7 @@
 
 Name:           steamtinkerlaunch
 Version:        10.0
-Release:        1.%{date}.git%{short}%{?dist}
+Release:        1.%{date}.git.%{short}%{?dist}
 Summary:        Wrapper tool for use with the Steam client for custom launch options
 
 License:        GPLv3
