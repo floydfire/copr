@@ -1,4 +1,4 @@
-Name:           steamtinkerlaunch-latestcommit
+Name:           steamtinkerlaunch
 Version:        10.0
 Release:        1%{?dist}
 Summary:        Wrapper tool for use with the Steam client for custom launch options
