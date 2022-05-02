@@ -1,7 +1,7 @@
 %global commit 53d0f7d852101e7b0302ef2593378ca66c812772
 %global comshort 53d0f7d
 
-Name:           steamtinkerlaunch-latestcommit
+Name:           steamtinkerlaunch
 Version:        10.0
 Release:        1%{?dist}.%{comshort}
 Summary:        Wrapper tool for use with the Steam client for custom launch options
